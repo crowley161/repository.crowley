@@ -14,7 +14,7 @@
         <platform>all</platform>
         <assets>
             <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
+            <fanart></fanart>
         </assets>
     </extension>
 </addon>
